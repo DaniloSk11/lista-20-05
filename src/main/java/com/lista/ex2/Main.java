@@ -14,7 +14,7 @@ public class Main {
             String option;
             System.out.println("Escolha uma opção:\n(a) adicionar telefone;\n(r) remover telefone;\n(l) listar telefones;\n(s) sair.");
             option = ler.nextLine();
-            
+
                 if (option.equals("a")) {
                     System.out.println("Insira novo telefone: ");
                     String telefoneNovo = ler.nextLine();
