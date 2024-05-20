@@ -1,0 +1,5 @@
+simples o existira o objeto cliente o main vai criar um novo
+cliente e chamará a função addCliente pra adicionar o cliente
+na lista o main será um loop q verificará o valor id e se for
+negativo ele para e da print em uma função string pra formatar
+a lista

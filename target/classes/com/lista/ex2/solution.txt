@@ -1,0 +1,1 @@
+criar a a lista telefones e um gerenciador de menu q retorna as strings do menu;
